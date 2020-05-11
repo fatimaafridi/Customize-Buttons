@@ -1,0 +1,6 @@
+.Button {
+	background: white;
+}
+.Button:disabled {
+	background: blue;
+}
